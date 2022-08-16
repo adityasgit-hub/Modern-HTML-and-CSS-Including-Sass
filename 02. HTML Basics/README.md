@@ -1,4 +1,4 @@
-<h2>HTML Basics</h2>
+<h2>HTML5 Basics</h2>
 
 <ul>
   <li>Doctype</li>
