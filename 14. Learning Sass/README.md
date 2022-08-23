@@ -1,6 +1,6 @@
-<h1>Learning Sass</h1>
+<h2>Learning Sass</h2>
 
-<h3>What is Sass?</h3>
+<h4>What is Sass?</h4>
 
 <ul>
   <li>Environment Setup with Node-Sass</li>
